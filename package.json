@@ -1,0 +1,23 @@
+{
+  "name": "deploy-web-app-on-aws-with-terraform-and-github-actions",
+  "version": "1.0.0",
+  "description": "Resources for the https://thedevops.world/guide-to-deploy-a-web-app-on-aws-with-terraform-and-github-actions-eMbeI article",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladbogdan10/deploy-web-app-on-aws-with-terraform-and-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladbogdan10/deploy-web-app-on-aws-with-terraform-and-github-actions/issues"
+  },
+  "homepage": "https://github.com/vladbogdan10/deploy-web-app-on-aws-with-terraform-and-github-actions#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
